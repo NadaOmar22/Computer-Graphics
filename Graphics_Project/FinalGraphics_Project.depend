@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1654116979 source:d:\thirdyear\second_term\graphics\finalgraphics_project\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<math.h>
+	<stack>
+	<list>
+	<Vector>
+	<fstream>
+
+1654116979 source:c:\users\dell\desktop\third_level_term_2\graphics\finalgraphics_project\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<math.h>
+	<stack>
+	<list>
+	<Vector>
+	<fstream>
+
